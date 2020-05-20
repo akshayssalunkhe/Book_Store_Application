@@ -10,16 +10,7 @@ public class BookStoreAppApplication {
         SpringApplication.run(BookStoreAppApplication.class, args);
 
  //printing welcome message
-        System.out.println("Hello Akshay");
-        System.out.println("akshay on UC_1");
-
-
-        System.out.println();
-
-        System.out.println("Hello Akshay");
-        System.out.println("akshay on UC_1");
-        System.out.println("Vaishnavi on UC_2");
-        System.out.println();
+        System.out.println("this is master of akshay");
 
       
     }
